@@ -10,6 +10,11 @@ Documentation NASLib!
    :maxdepth: 2
    :caption: Contents:
 
+   example
+   manual
+   license
+   citing
+   contributing
 
 
 Indices and tables
@@ -19,18 +24,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-
-Example
-==================
-
-Manual
-==================
-
-License
-==================
-
-Citing NASLib
-==================
-
-Contributing
-==================
