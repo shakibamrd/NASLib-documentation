@@ -162,5 +162,8 @@ import sphinx_rtd_theme
 
 extensions = [
     "sphinx_rtd_theme",
+    'sphinxcontrib.bibtex',
 ]
+
+bibtex_bibfiles = ['refs.bib']
 
